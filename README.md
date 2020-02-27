@@ -1,9 +1,9 @@
 # HamRadioQuestionPools
-JSON format of the question pools used for Amateur Radio licensing exams administered by the National Conference of Volunteer Examiner Coordinators.
+JSON format of the question pools used for Amateur Radio licensing exams administered by the National Conference of Volunteer Examiner Coordinators. Data was parsed from documents posted on http://www.ncvec.org/.
 
 # Intro
 
-An **Element** in FCC terms essentially refers to an exam required for licensing.
+An **Element**, in FCC terms, essentially refers to an exam required for licensing.
 
 Each question pool is divided into 10 **Sub-Elements**.
 
